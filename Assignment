@@ -1,0 +1,15 @@
+1. Version Control
+Version control is a system that helps developers track changes made to their code over time.
+
+2. Repository (Repo)
+A repository is a storage location where a project's files and their change history are kept.
+
+3. Commit
+A commit is a saved record of changes made to a project.
+Whenever you make important changes to your code, you can commit them to save a snapshot of the project at that point.
+
+4. Branch
+A branch is a separate line of development within a repository.
+
+5. Merge
+Merge means combining changes from one branch into another branch.
